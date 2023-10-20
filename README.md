@@ -7,5 +7,8 @@ This repository contains code for the STUD-E BUD-E app. This app uses Chat GPT t
 ### Clone Repo
 
 ### Install Python Dependencies
-''' pip install -r requirements.txt
+'''console pip install -r requirements.txt
 '''
+
+### Securely Save API Key
+'''console export OPENAI_API_KEY='my_openai_api_key'
